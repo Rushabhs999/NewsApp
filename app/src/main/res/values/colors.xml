@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D37C1</color>
+    <color name="colorPrimaryDark">#1229A1</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="buttonRed">#FF2348</color>
+
+    <color name="pageIndicatorSelected">#FEFEFE</color>
+    <color name="pageIndicatorDefault">#727271</color>
+
+    <color name="gradientLeft">#100B5F</color>
+    <color name="gradientRight">#050329</color>
+    <color name="backgroundHome">#06032C</color>
+    <color name="backgroundLeft">#2A243D</color>
+    <color name="backgroundRight">#1F1B20</color>
+
+    <color name="grey_1">#9d9d9d</color>
+    <color name="grey_2">#bfbfbf</color>
+</resources>
